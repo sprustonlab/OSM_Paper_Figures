@@ -2,15 +2,6 @@
 Code for the orthogonalized-state-machine (OSM) manuscript.
 
 # Quick start
-## Repository organization
-> 📘 **Finding the relevant code**
->
-> Notebooks are organized by the figure panels or output text they generate.
-> 
-> For an easy overview please look here:
->
-> * [Table of Contents](TOC.md)
-
 
 ## Browsing the data
 > 📘 **Additional tutorials available**
