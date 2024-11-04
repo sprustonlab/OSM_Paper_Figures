@@ -64,7 +64,7 @@ Please note that the data is available as compressed archives and need to be unp
 # Dependencies
 ## Main dependency
 Needed to run the notebooks in this repo.
-* [vr2p](https://github.com/sprustonlab/vr2p-public) module. The main way to access and manipulate the joined VR and 2-Photon data. 
+* [vr2p](https://github.com/sprustonlab/vr2p-public) module. The main way to access and manipulate the joined VR and 2-Photon calcium imaging data. 
 ## Auxillary dependencies.
 Modules and code used to generate the data.
 * [Gimbl](https://github.com/winnubstj/Gimbl).  VR package for Unity to perform VR animal experiments.
