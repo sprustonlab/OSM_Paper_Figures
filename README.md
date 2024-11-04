@@ -1,5 +1,4 @@
-# L2AC-Manuscript
-Code for the orthogonalized-state-machine (OSM) manuscript.
+# Code for the paper 'Learning produces a hippocampal cognitive map in the form of an orthogonalized state machine'
 
 # Quick start
 
