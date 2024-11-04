@@ -57,7 +57,7 @@ ax.imshow(mask_img,interpolation='none',cmap='jet',aspect=1.5,vmin=0,vmax=2,alph
 
 
 # Data availability
-All data needed to run the notebooks in this repository is available on figshare:
+All data needed to run the notebooks in this repository is available on figshare: https://doi.org/10.25378/janelia.27273552
 
 Please note that the data is available as compressed archives and need to be unpacked before they can be used. Files with a number as a extension (e.g. 001) are part of a split archive and need to be unpacked together.
 
