@@ -1,4 +1,5 @@
-# Code for the paper 'Learning produces a hippocampal cognitive map in the form of an orthogonalized state machine'
+# Code for the paper 'Learning produces an orthogonalized state machine in the hippocampus'
+https://www.nature.com/articles/s41586-024-08548-w
 
 # Quick start
 
